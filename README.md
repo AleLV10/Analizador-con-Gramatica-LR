@@ -5,6 +5,7 @@ Descripción general
 Nuestra gramática permite a los usuarios declarar y asignar variables al inicio del programa. Es posible solo declarar variables o también asignarles valores iniciales.
 Posteriormente, se pueden desarrollar sentencias aritméticas (operaciones), condicionales (if) o de bucle (for). Se pueden crear estructuras anidadas (if dentro de if, for dentro de for) tantas veces como se necesite para construir el programa.
 Esta gramática está diseñada para que el usuario pueda escribir código de manera clara, con declaraciones, operaciones, condicionales y bucles, respetando la sintaxis definida.
+El archivo final obtiene codigo en C.
 
 Gramática Formal
 G(L) = {T, N, Z, S}
